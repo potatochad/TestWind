@@ -88,7 +88,7 @@ import androidx.compose.ui.text.rememberTextMeasurer
 import androidx.compose.ui.layout.*
 import android.graphics.drawable.Drawable
 import android.content.pm.*
-import com.productivity.wind.Imports.*
+import com.productivity.testwind.Imports.*
 import java.util.*
 import com.productivity.testwind.R
 import kotlin.reflect.full.*
@@ -119,7 +119,7 @@ import androidx.navigation.*
 import android.webkit.*
 import org.jetbrains.kotlin.cli.jvm.K2JVMCompiler
 import org.jetbrains.kotlin.cli.common.ExitCode
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.Utils.*
 import android.location.*
 import androidx.core.content.*
 import androidx.compose.ui.text.*
@@ -132,7 +132,7 @@ import android.net.*
 import androidx.lifecycle.*
 import kotlinx.coroutines.flow.*
 import androidx.compose.ui.window.*
-import com.productivity.wind.Imports.UI_visible.*
+import com.productivity.testwind.Imports.UI_visible.*
 import android.os.Process.*
 import android.content.ClipData
 import android.content.ClipboardManager
