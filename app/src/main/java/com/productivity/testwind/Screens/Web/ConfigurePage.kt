@@ -1,23 +1,23 @@
-package com.productivity.wind.Screens.Web
+package com.productivity.testwind.Screens.Web
 
-import com.productivity.wind.Imports.Utils.Log.*
-import com.productivity.wind.Imports.Utils.Generic_list.*
-import com.productivity.wind.Imports.Utils.Renames.*
-import com.productivity.wind.Imports.Utils.SaveData.*
-import com.productivity.wind.Imports.Utils.AppsAndDevice.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Imports.Utils.ToX.*
-import com.productivity.wind.Imports.Utils.String.*
+import com.productivity.testwind.Imports.Utils.Log.*
+import com.productivity.testwind.Imports.Utils.Generic_list.*
+import com.productivity.testwind.Imports.Utils.Renames.*
+import com.productivity.testwind.Imports.Utils.SaveData.*
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Imports.Utils.ToX.*
+import com.productivity.testwind.Imports.Utils.String.*
 import androidx.compose.runtime.*
 import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
-import com.productivity.wind.*
+import com.productivity.testwind.*
 import androidx.compose.foundation.layout.width
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.productivity.wind.R
-import com.productivity.wind.Imports.*
+import com.productivity.testwind.R
+import com.productivity.testwind.Imports.*
 import android.annotation.SuppressLint
 import android.view.*
 import android.webkit.WebChromeClient
@@ -26,23 +26,23 @@ import android.webkit.WebViewClient
 import android.graphics.Bitmap
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.activity.compose.*
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.Utils.*
 import androidx.compose.foundation.lazy.*
 import androidx.compose.foundation.lazy.items
 import androidx.compose.ui.unit.*
 import androidx.compose.foundation.shape.*
 import androidx.compose.ui.text.style.*
 import androidx.compose.ui.graphics.*
-import com.productivity.wind.Imports.UI_visible.*
+import com.productivity.testwind.Imports.UI_visible.*
 import androidx.compose.ui.platform.*
 import androidx.compose.material3.pulltorefresh.*
 import androidx.compose.material3.pulltorefresh.PullToRefreshDefaults.Indicator
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material.icons.outlined.*
-import com.productivity.wind.Screens.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Imports.Utils.Browser.*
+import com.productivity.testwind.Screens.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Imports.Utils.Browser.*
 
 
 @Composable
