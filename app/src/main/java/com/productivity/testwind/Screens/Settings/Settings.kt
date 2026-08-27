@@ -1,14 +1,14 @@
-package com.productivity.wind.Screens.Settings
+package com.productivity.testwind.Screens.Settings
 
-import com.productivity.wind.Imports.Utils.Log.*
-import com.productivity.wind.Imports.Utils.Generic_list.*
-import com.productivity.wind.Imports.Utils.Renames.*
-import com.productivity.wind.Imports.Utils.SaveData.*
-import com.productivity.wind.Imports.Utils.AppsAndDevice.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Screens.*
-import com.productivity.wind.Imports.Utils.ToX.*
-import com.productivity.wind.Imports.Utils.String.*
+import com.productivity.testwind.Imports.Utils.Log.*
+import com.productivity.testwind.Imports.Utils.Generic_list.*
+import com.productivity.testwind.Imports.Utils.Renames.*
+import com.productivity.testwind.Imports.Utils.SaveData.*
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Screens.*
+import com.productivity.testwind.Imports.Utils.ToX.*
+import com.productivity.testwind.Imports.Utils.String.*
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material3.*
@@ -20,9 +20,9 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.material.icons.filled.*
 import androidx.compose.ui.Modifier
 import androidx.compose.foundation.*
-import com.productivity.wind.Imports.*
-import com.productivity.wind.*
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.*
+import com.productivity.testwind.*
+import com.productivity.testwind.Imports.Utils.*
 import androidx.compose.ui.unit.*
 import androidx.compose.foundation.shape.*
 import androidx.compose.ui.text.style.*
@@ -40,7 +40,7 @@ import androidx.compose.ui.text.rememberTextMeasurer
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.platform.LocalLayoutDirection
 import android.provider.Settings
-import com.productivity.wind.Imports.Utils.Log.logTimer
+import com.productivity.testwind.Imports.Utils.Log.logTimer
 
 @Composable
 fun SettingsScreen() {
