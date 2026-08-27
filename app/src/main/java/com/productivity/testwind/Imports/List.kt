@@ -1,14 +1,14 @@
-package com.productivity.wind.Imports
+package com.productivity.testwind.Imports
 
-import com.productivity.wind.Imports.Utils.Log.*
-import com.productivity.wind.Imports.Utils.Generic_list.*
-import com.productivity.wind.Imports.Utils.Renames.*
-import com.productivity.wind.Imports.Utils.SaveData.*
-import com.productivity.wind.Imports.Utils.AppsAndDevice.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Imports.Utils.ToX.*
-import com.productivity.wind.Imports.Utils.String.*
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.Utils.Log.*
+import com.productivity.testwind.Imports.Utils.Generic_list.*
+import com.productivity.testwind.Imports.Utils.Renames.*
+import com.productivity.testwind.Imports.Utils.SaveData.*
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Imports.Utils.ToX.*
+import com.productivity.testwind.Imports.Utils.String.*
+import com.productivity.testwind.Imports.Utils.*
 import android.app.usage.UsageStatsManager
 import android.app.*
 import androidx.core.app.*
@@ -63,7 +63,7 @@ import androidx.compose.ui.text.rememberTextMeasurer
 import android.graphics.drawable.Drawable
 import android.content.pm.*
 import java.util.*
-import com.productivity.wind.R
+import com.productivity.testwind.R
 import androidx.compose.ui.geometry.*
 import androidx.compose.ui.graphics.drawscope.*
 import java.time.*
