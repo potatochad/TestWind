@@ -90,7 +90,7 @@ import android.graphics.drawable.Drawable
 import android.content.pm.*
 import com.productivity.testwind.Imports.*
 import java.util.*
-import com.productivity.wind.R
+import com.productivity.testwind.R
 import kotlin.reflect.full.*
 import androidx.compose.ui.focus.*
 import androidx.activity.result.contract.ActivityResultContract
@@ -119,7 +119,7 @@ import androidx.navigation.*
 import android.webkit.*
 import org.jetbrains.kotlin.cli.jvm.K2JVMCompiler
 import org.jetbrains.kotlin.cli.common.ExitCode
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.Utils.*
 import android.location.*
 import androidx.core.content.*
 import androidx.compose.ui.text.*
