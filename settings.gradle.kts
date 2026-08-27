@@ -28,5 +28,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Wind"
+rootProject.name = "TestWind"
 include(":app")
