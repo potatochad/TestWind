@@ -3,16 +3,16 @@
 //Call create channels when building notifi
 
 
-package com.productivity.wind.Imports.UI_visible
+package com.productivity.testwind.Imports.UI_visible
 
-import com.productivity.wind.Imports.Utils.Log.*
-import com.productivity.wind.Imports.Utils.Generic_list.*
-import com.productivity.wind.Imports.Utils.Renames.*
-import com.productivity.wind.Imports.Utils.SaveData.*
-import com.productivity.wind.Imports.Utils.AppsAndDevice.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Imports.Utils.ToX.*
-import com.productivity.wind.Imports.Utils.String.*
+import com.productivity.testwind.Imports.Utils.Log.*
+import com.productivity.testwind.Imports.Utils.Generic_list.*
+import com.productivity.testwind.Imports.Utils.Renames.*
+import com.productivity.testwind.Imports.Utils.SaveData.*
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Imports.Utils.ToX.*
+import com.productivity.testwind.Imports.Utils.String.*
 import android.annotation.*
 import androidx.annotation.RequiresApi
 import android.app.*
@@ -71,10 +71,10 @@ import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import com.google.android.gms.location.*
 import com.google.android.gms.maps.model.*
 import com.google.maps.android.compose.*
-import com.productivity.wind.*
-import com.productivity.wind.Imports.*
-import com.productivity.wind.Imports.Utils.*
-import com.productivity.wind.R
+import com.productivity.testwind.*
+import com.productivity.testwind.Imports.*
+import com.productivity.testwind.Imports.Utils.*
+import com.productivity.testwind.R
 import kotlinx.coroutines.*
 import kotlin.math.*
 import java.util.logging.*
