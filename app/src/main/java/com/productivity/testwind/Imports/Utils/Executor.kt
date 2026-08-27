@@ -91,7 +91,7 @@ import android.graphics.drawable.Drawable
 import android.content.pm.*
 import com.productivity.testwind.Imports.*
 import java.util.*
-import com.productivity.wind.R
+import com.productivity.testwind.R
 import kotlin.reflect.full.*
 import androidx.compose.ui.focus.*
 import androidx.activity.result.contract.ActivityResultContract
@@ -133,7 +133,7 @@ import android.net.*
 import androidx.lifecycle.*
 import kotlinx.coroutines.flow.*
 import androidx.compose.ui.window.*
-import com.productivity.wind.Imports.UI_visible.*
+import com.productivity.testwind.Imports.UI_visible.*
 import android.os.Process.*
 import android.content.ClipData
 import android.content.ClipboardManager
