@@ -30,7 +30,7 @@ import androidx.compose.ui.text.font.*
 import kotlinx.coroutines.*
 import android.net.Uri
 import android.widget.Toast
-import com.productivity.wind.*
+import com.productivity.testwind.*
 import kotlin.collections.*
 import android.content.ClipData
 import android.content.ClipboardManager
