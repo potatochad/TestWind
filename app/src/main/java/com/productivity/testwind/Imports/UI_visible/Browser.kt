@@ -1,14 +1,14 @@
-package com.productivity.wind.Imports.UI_visible
+package com.productivity.testwind.Imports.UI_visible
 
-import com.productivity.wind.Imports.Utils.Log.*
-import com.productivity.wind.Imports.Utils.Generic_list.*
-import com.productivity.wind.Imports.Utils.Renames.*
-import com.productivity.wind.Imports.Utils.SaveData.*
-import com.productivity.wind.Imports.Utils.AppsAndDevice.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Imports.Utils.ToX.*
-import com.productivity.wind.Imports.Utils.String.*
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.Utils.Log.*
+import com.productivity.testwind.Imports.Utils.Generic_list.*
+import com.productivity.testwind.Imports.Utils.Renames.*
+import com.productivity.testwind.Imports.Utils.SaveData.*
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Imports.Utils.ToX.*
+import com.productivity.testwind.Imports.Utils.String.*
+import com.productivity.testwind.Imports.Utils.*
 import android.app.usage.UsageStatsManager
 import android.app.*
 import androidx.core.app.*
@@ -30,7 +30,7 @@ import androidx.compose.ui.text.font.*
 import kotlinx.coroutines.*
 import android.net.Uri
 import android.widget.Toast
-import com.productivity.wind.*
+import com.productivity.testwind.*
 import kotlin.collections.*
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -57,14 +57,14 @@ import androidx.navigation.compose.composable
 import androidx.annotation.RequiresApi
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
-import com.productivity.wind.Screens.*
+import com.productivity.testwind.Screens.*
 import androidx.compose.ui.semantics.clearAndSetSemantics
 import androidx.compose.ui.text.rememberTextMeasurer
 import android.graphics.drawable.Drawable
 import android.content.pm.*
 import java.util.*
-import com.productivity.wind.R
-import com.productivity.wind.Imports.UI_visible.*
+import com.productivity.testwind.R
+import com.productivity.testwind.Imports.UI_visible.*
 import androidx.compose.ui.geometry.*
 import androidx.compose.ui.graphics.drawscope.*
 import java.time.*
@@ -78,7 +78,7 @@ import androidx.compose.ui.viewinterop.*
 import android.widget.*
 import android.text.method.*
 import androidx.compose.ui.unit.*
-import com.productivity.wind.Imports.*
+import com.productivity.testwind.Imports.*
 import androidx.compose.ui.window.*
 import androidx.compose.animation.*
 import android.webkit.ValueCallback
@@ -148,7 +148,7 @@ import java.util.*
 import androidx.activity.compose.BackHandler
 import androidx.compose.material3.pulltorefresh.*
 import androidx.compose.material3.pulltorefresh.PullToRefreshDefaults.Indicator
-import com.productivity.wind.Imports.Utils.Browser.*
+import com.productivity.testwind.Imports.Utils.Browser.*
 
 
 
