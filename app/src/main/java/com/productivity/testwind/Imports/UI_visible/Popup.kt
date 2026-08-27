@@ -1,15 +1,15 @@
 @file:OptIn(ExperimentalFoundationApi::class)
 
-package com.productivity.wind.Imports.UI_visible
+package com.productivity.testwind.Imports.UI_visible
 
-import com.productivity.wind.Imports.Utils.Log.*
-import com.productivity.wind.Imports.Utils.Generic_list.*
-import com.productivity.wind.Imports.Utils.Renames.*
-import com.productivity.wind.Imports.Utils.SaveData.*
-import com.productivity.wind.Imports.Utils.AppsAndDevice.*
-import com.productivity.wind.Imports.Utils.NavControl.*
-import com.productivity.wind.Imports.Utils.ToX.*
-import com.productivity.wind.Imports.Utils.String.*
+import com.productivity.testwind.Imports.Utils.Log.*
+import com.productivity.testwind.Imports.Utils.Generic_list.*
+import com.productivity.testwind.Imports.Utils.Renames.*
+import com.productivity.testwind.Imports.Utils.SaveData.*
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.*
+import com.productivity.testwind.Imports.Utils.NavControl.*
+import com.productivity.testwind.Imports.Utils.ToX.*
+import com.productivity.testwind.Imports.Utils.String.*
 import android.annotation.SuppressLint
 import androidx.compose.ui.draw.*
 import androidx.compose.foundation.shape.*
@@ -46,7 +46,7 @@ import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.graphics.painter.BitmapPainter
 import androidx.compose.ui.graphics.painter.Painter
 import com.google.accompanist.drawablepainter.rememberDrawablePainter
-import com.productivity.wind.*
+import com.productivity.testwind.*
 import androidx.compose.foundation.gestures.*
 import androidx.compose.ui.input.pointer.*
 import androidx.compose.ui.layout.*
@@ -64,7 +64,7 @@ import android.os.*
 import kotlin.math.*
 import androidx.compose.ui.geometry.*
 import androidx.compose.foundation.lazy.*
-import com.productivity.wind.Imports.*
+import com.productivity.testwind.Imports.*
 import android.content.*
 import android.provider.*
 import android.app.*
