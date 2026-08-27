@@ -9,12 +9,12 @@ plugins {
 }
 
 android {
-    namespace = "com.productivity.wind"
+    namespace = "com.productivity.testwind"
 
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.productivity.wind"
+        applicationId = "com.productivity.testwind"
         minSdk = 28
         targetSdk = 36
         versionCode = 16
