@@ -82,7 +82,7 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.compose.composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
-import com.productivity.wind.Screens.*
+import com.productivity.testwind.Screens.*
 import androidx.compose.ui.semantics.clearAndSetSemantics
 import androidx.compose.ui.text.ExperimentalTextApi
 import androidx.compose.ui.text.rememberTextMeasurer
@@ -120,9 +120,9 @@ import androidx.navigation.*
 import android.webkit.*
 import org.jetbrains.kotlin.cli.jvm.K2JVMCompiler
 import org.jetbrains.kotlin.cli.common.ExitCode
-import com.productivity.wind.Imports.Utils.*
+import com.productivity.testwind.Imports.Utils.*
 import androidx.compose.ui.text.*
-import com.productivity.wind.Imports.UI_visible.*
+import com.productivity.testwind.Imports.UI_visible.*
 import java.time.*
 import java.time.format.*
 import android.view.*
