@@ -2,11 +2,11 @@
 //‼️‼️‼️DONT USE MY OUTSIDE FUNCTIONS‼️‼️
 //‼️NO RENAMES
 
-package com.productivity.wind.Imports.Utils.Log
+package com.productivity.testwind.Imports.Utils.Log
 
-import com.productivity.wind.Bar
-import com.productivity.wind.Imports.Utils.AppsAndDevice.appScope
-import com.productivity.wind.Imports.Utils.AppsAndDevice.App
+import com.productivity.testwind.Bar
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.appScope
+import com.productivity.testwind.Imports.Utils.AppsAndDevice.App
 
 import android.os.*
 import android.content.*
